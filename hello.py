@@ -1,3 +1,5 @@
 print("hello world")
 
-print(100*4)
+
+
+print("Nama saya Pratama.")
